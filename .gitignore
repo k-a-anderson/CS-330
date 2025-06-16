@@ -1,0 +1,30 @@
+# Build and VS folders
+.vs/
+*.vcxproj.user
+*.ipch/
+*.obj
+*.pdb
+*.ilk
+*.log
+*.tlog/
+*.cache/
+*.suo
+*.user
+*.exe
+*.dll
+*.bin
+*.idb
+*.iobj
+*.ipdb
+*.res
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+
+# Debug / Release folders
+Debug/
+Release/
+
+# Don't commit zip backups
+*.zip
